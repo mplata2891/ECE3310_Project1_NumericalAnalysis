@@ -48,3 +48,12 @@ To run this project:
 2. Compile the program:
    ```bash
    g++ PA-1_NumericalAnalysis.cpp UsaPopulations.cpp -o numerical_analysis
+   ```
+3. Run the executable:
+  ```bash
+   ./numerical_analysis
+  ```
+4. The program will:
+- Read input data from the text files
+- Display a formatted table of states and populations
+- Output the calculated mean population
